@@ -1,0 +1,152 @@
+[
+    {
+        "id": 0,
+        "product_id": "1234",
+        "name": "Normal Corn Snake",
+        "price": "60",
+        "age": "1",
+        "sex": "Female",
+        "img": "snake",
+        "life_expectancy": {
+            "from": "10",
+            "to": "15"
+        },
+        "average_max_size": {
+            "from": "120",
+            "to": "170"
+        },
+        "enclosure": "Snakes can be kept in plastic/glass enclosures. A 1-year-old will need an enclosure that’s at least LW 50 x 30cm. A fully grown snake needs an enclosure that’s LW 120 x 40 cm. ",
+        "heating": "Corn snakes do not need UVB light to absorb their food however they do live in warm climates so having UVB will be very helpful in recreating their natural habitat and can help struggling corn snakes. You can choose a heat bulb or a heat matt. But it’s important to have a warm side and a cool side in the enclosure.",
+        "substrate": "the best substrates for snakes are coconut fibre, newspapers, or tiles. Anything that they can’t eat and that doesn’t cause impaction will be good. ",
+        "humidity": "A corn snakes humidity should be around 30-60%. You can maintain this by spraying the enclosure with water or getting a humidifier. ",
+        "decoration": "vines, hides and tree branches are essential. Corn snakes like to explore and hide away, so it’s important to have these in their enclosure.  ",
+        "food": "Corn snakes eat once a week, a baby corn snake will eat mice, an adult corn snake will eat rats or even quails. It is also crucial for corn snakes to have a water bowl in their enclosure. ",
+        "other": "your snake should shed every 4-6 months. Corn snakes can be handled 30 to 60 minutes in a week. Its important not to handle them too much, as it may stress them out.",
+        "filtration": ""
+    },
+    {
+        "id": 1,
+        "name": "Yellow Belly Slider Turtle",
+        "price": "55",
+        "product_id": "567",
+        "age": "3",
+        "sex": "Female",
+        "img": "turtle",
+        "life_expectancy": {
+            "from": "35",
+            "to": "40"
+        },
+        "average_max_size": {
+            "from": "20",
+            "to": "33"
+        },
+        "enclosure": "The enclosure must me 10x the length of the turtle. This turtle will need a tank the that’s LWD 120 x 40 x 40 cm. they must have a lot of water to swim in and a basking platform where they can go onto whenever they want to dry. It’s important the basking platform has a ramp that the turtle can climb, and they should be able to completely fit onto the basking platform so they can completely dry off. ",
+        "heating": "Must have a UVB and UVA bulb pointed at the basking platform. This will help your turtle digest its food and it prevents shell rot. There should also be a water heater in the tank to keep the water warm at about 27-29 degrees celsius. ",
+        "substrate": "it’s not advised to use sand or gravel as turtles may eat it. Stones and pebbles can be good however turtles generally do not need substrate so you could leave it bare.",
+        "humidity": "A corn snakes humidity should be around 30-60%. You can maintain this by spraying the enclosure with water or getting a humidifier. ",
+        "decoration": "turtles do not really care for decoration but having 2 or 3 large rocks or branches is a good idea if they wish to explore. ",
+        "food": "turtles can eat fruits, vegetables and fish. The easiest food source is turtle palettes, however it’s important to feed your turtle vegetables/fruit and fish at least twice a week. They should be fed once a day at this age. ",
+        "other": "your snake should shed every 4-6 months. Corn snakes can be handled 30 to 60 minutes in a week. Its important not to handle them too much, as it may stress them out.",
+        "filtration": "filtration is essential for a turtle tank and the general rule of thumb is to have a filter with a capacity of 3x more than the capacity of your tank. Turtles cause a lot of mess, so a strong canister filter is vital. "
+    },
+    {
+        "id": 2,
+        "name": "Albino Leopard Gecko",
+        "price": "40",
+        "product_id": "8910",
+        "age": "2",
+        "sex": "Male",
+        "img": "gecko",
+        "life_expectancy": {
+            "from": "10",
+            "to": "20"
+        },
+        "average_max_size": {
+            "from": "20",
+            "to": "26"
+        },
+        "enclosure": "Enclosures that are WDH 40 x 30 x 35 cm to 60 x 30 x 45 cm will be suitable for leopard geckos of all ages.",
+        "heating": "A heat matt or a heat lamp on one side of the enclosure is important as geckos regulate their body temperature this way. The normal temperature of the enclosure should be 24 degrees Celsius, and the heated side should be around 32 degrees Celsius.",
+        "substrate": "Coconut fibre and tiles are the best substrates. Sand and gravel can cause impaction, so it is not recommended. ",
+        "humidity": "Geckos like a humid environment you can create this by providing damp moss, inserting a humidifier, or spraying the enclosure every few hours.",
+        "decoration": "tree branches and hides are important for a leopard gecko; they can explore and be out of site whenever they want to.",
+        "food": "Leopard geckos should be eating live foods as its very good for their health. These can be crickets, wax worms and meal worms. It’s also recommended to dust the food with supplements like calcium. ",
+        "other": "Turn off all lights in the enclosure at night.",
+        "filtration": ""
+    },
+    {
+        "id": 3,
+        "name": "Normal Ball Python Snake ",
+        "price": "70",
+        "age": "2",
+        "product_id": "111213",
+        "sex": "Male",
+        "img": "snake2",
+        "life_expectancy": {
+            "from": "20",
+            "to": "30"
+        },
+        "average_max_size": {
+            "from": "60",
+            "to": "95"
+        },
+        "enclosure": "Snakes can be kept in plastic/glass enclosures. A 2-year-old will need an enclosure that’s at least LW 40 x 30cm. A fully grown snake needs an enclosure that’s LW 100 x 40 cm.",
+        "heating": "Heating is not necessary but if it is used for vanity purposes ensure that it is on a 12-hour cycle and that the lights within the enclosure are off at night. ",
+        "substrate": "The best substrates are coconut fibre, newspapers, or tiles. Anything that the snake can’t eat and that doesn’t cause impaction will be good. ",
+        "humidity": "The humidity in the enclosure should be around 50-60%. You can maintain this by spraying the enclosure with water or getting a humidifier. ",
+        "decoration": "Vines and tree branches and a hide are essential. Pythons like to explore and it’s important for their health.  ",
+        "food": "Eats once a week, a baby python will eat mice, an adult will eat rats or even quails. It’s also important for them to have a water bowl in their enclosure. ",
+        "other": "your snake should shed every 4 to 6 weeks and in this period, you should not handle the snake. You can handle a python for 30 to 60 minutes in a week, handling them too much can stress them out.",
+        "filtration": ""
+    },
+    {
+        "id": 4,
+        "name": "Bearded Dragon",
+        "price": "45",
+        "age": "3",
+        "product_id": "141516",
+        "sex": "Female",
+        "img": "dragon",
+        "life_expectancy": {
+            "from": "12",
+            "to": "14"
+        },
+        "average_max_size": {
+            "from": "40",
+            "to": "50"
+        },
+        "enclosure": "An enclosure that is at least LWD 120 x 40 x 30 cm will be suitable for this bearded dragon. ",
+        "heating": "A heat matt or a heat lamp on one side of the enclosure is important. The opposite side should have no heating so that there will also be a ‘cool’ spot for your reptile. Bearded dragons need UV lighting to ensure they are growing well and to prevent metabolic bone disease. Ensure the lights within the enclosure are all turned off at night. ",
+        "substrate": "Coconut fibre and tiles are the best substrates. Sand and gravel can cause impaction, so it is not recommended. ",
+        "humidity": "Humidity in a bearded dragon enclosure should be between 35-40%. You can use a humidifier, spray the enclosure, and decrease ventilation to maintain this. ",
+        "decoration": "tree branches and hides are important for a bearded dragon as they like to explore. ",
+        "food": "Eating live foods like crickets, meal worms and king worms is recommended for bearded dragons. They can also eat vegetables such as sweet potato, peppers, and leafy greens.",
+        "other": "Bearded dragons shed between 1 to 3 times a year and they should be left alone whilst they are going through shed.",
+        "filtration": ""
+    },
+    {
+        "id": 5,
+        "name": "Red Eared Slider Turtle",
+        "price": "50",
+        "product_id": "171819",
+        "age": "1",
+        "sex": "Female",
+        "img": "turtle2",
+        "life_expectancy": {
+            "from": "30",
+            "to": "40"
+        },
+        "average_max_size": {
+            "from": "25",
+            "to": "30"
+        },
+        "enclosure": "The enclosure must me 10x the length of the turtle. This turtle will need a tank the that’s LWD 100 x 40 x 40 cm. they must have a lot of water to swim in and a basking platform where they can go onto whenever they want to dry. It’s important the basking platform has a ramp that the turtle can climb, and they should be able to completely fit onto the basking platform so they can completely dry off.",
+        "heating": "Must have a UVB and UVA bulb pointed at the basking platform. This is important as this will help your turtle digest its food and it prevents shell rot. There should also be a water heater in the tank to keep the water warm at about 27-29 degrees Celsius.  ",
+        "substrate": "Its, not advised to use sand or gravel as turtles may eat it. Stones and pebbles can be good however turtles generally do not need substrate so you could leave it bare.",
+        "humidity": "",
+        "decoration": "Turtles do not really care for decoration but having 2 or 3 large rocks or branches is a good idea so they can explore if they want to.",
+        "food": "Turtles can eat vegetables and fish. The easiest food source is turtle palettes, however it’s important to feed your turtle vegetables/fruit and fish at least twice a week. They should be fed once a day at this age.",
+        "other": "",
+        "filtration": "Filtration is essential for a turtle tank and the general rule of thumb is to have a filter with a capacity of 3x more than the capacity of your tank. Turtles cause a lot of mess, so a strong canister filter is important to have."
+    }
+]

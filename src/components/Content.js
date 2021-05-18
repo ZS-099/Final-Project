@@ -1,0 +1,104 @@
+import React, { useState } from "react";
+import Sidebar from "./Sidebar";
+import Main from "./Main";
+
+const Content = ({
+  email,
+  setEmail,
+  password,
+  setPassword,
+  name,
+  setName,
+  dateOfBirth,
+  setDateOfBirth,
+  street,
+  setStreet,
+  streetNumber,
+  setStreetNumber,
+  city,
+  setCity,
+  country,
+  setCountry,
+  phone,
+  file,
+  handleFileChange,
+  setPhone,
+  handleLogin,
+  handleSignup,
+  hasAccount,
+  setHasAccount,
+  emailError,
+  passwordError,
+  user,
+  products,
+  setSelectedProduct,
+  selectedProduct,
+  activeComponent,
+  setActiveComponent,
+  handleApprovalSubmit,
+  hasShippingDetails,
+  checkout,
+  setCheckout,
+  handleDeleteProfile,
+  added,
+  setAdded,
+  userDetails,
+  setPostalCode,
+  postalCode,
+  setBasketCount
+}) => {
+  return (
+    <div className="content">
+      <Sidebar
+        hasAccount={hasAccount}
+        activeComponent={activeComponent}
+        setActiveComponent={setActiveComponent}
+      />
+      <Main
+        setBasketCount={setBasketCount}
+        activeComponent={activeComponent}
+        handleDeleteProfile={handleDeleteProfile}
+        email={email}
+        setEmail={setEmail}
+        password={password}
+        setPassword={setPassword}
+        name={name}
+        setName={setName}
+        street={street}
+        setStreet={setStreet}
+        streetNumber={streetNumber}
+        setStreetNumber={setStreetNumber}
+        city={city}
+        setCity={setCity}
+        country={country}
+        setCountry={setCountry}
+        phone={phone}
+        setPhone={setPhone}
+        file={file}
+        handleFileChange={handleFileChange}
+        dateOfBirth={dateOfBirth}
+        setDateOfBirth={setDateOfBirth}
+        handleLogin={handleLogin}
+        handleSignup={handleSignup}
+        hasAccount={hasAccount}
+        setHasAccount={setHasAccount}
+        emailError={emailError}
+        passwordError={passwordError}
+        user={user}
+        products={products}
+        setSelectedProduct={setSelectedProduct}
+        selectedProduct={selectedProduct}
+        handleApprovalSubmit={handleApprovalSubmit}
+        hasShippingDetails={hasShippingDetails}
+        checkout={checkout}
+        setCheckout={setCheckout}
+        added={added}
+        userDetails={userDetails}
+        setAdded={setAdded}
+        setPostalCode={setPostalCode}
+        postalCode={postalCode}
+      />
+    </div>
+  );
+};
+export default Content;

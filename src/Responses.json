@@ -1,0 +1,488 @@
+[
+    {
+        "combination": [
+            [
+                "less than £50",
+                "Yes",
+                "No",
+                "30 minutes",
+                "Yes",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "less than £50",
+                "Yes",
+                "No",
+                "60 minutes",
+                "Yes",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "less than £50",
+                "No",
+                "No",
+                "30 minutes",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "less than £50",
+                "No",
+                "No",
+                "60 minutes",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "£50-£70",
+                "Yes",
+                "No",
+                "60 minutes",
+                "Yes",
+                "Cute",
+                "Easy to care for"
+            ]
+        ],
+        "text": "The best reptile for you is a turtle. Turtles are adorable and make fantastic pets. They need a lot of room to swim in and require a basking ramp to dry down under. If they are kept in small tanks or unable to fully dry off at least once a day, they could become permanently deformed, so if you ever get one as a pet ensure it has enough room to swim around and plenty of UVB and UVA.",
+        "img": "TURTLE"
+    },
+    {
+        "combination": [
+            [
+                "£50-£70",
+                "Yes",
+                "No",
+                "30 minutes",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "£50-£70",
+                "Yes",
+                "No",
+                "15 minutes",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "£50-£70",
+                "Yes",
+                "No",
+                "15 minutes",
+                "No",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£50-£70",
+                "Yes",
+                "No",
+                "30 minutes",
+                "No",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£50-£70",
+                "Yes",
+                "Yes",
+                "30 minutes",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "Yes",
+                "30 minutes",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ]
+        ],
+        "text": "The best reptile for you is a Bearded Dragon. Bearded Dragons are adorable and make fantastic pets. They are one of the easiest reptiles to care for and don’t have high maintenance.",
+        "img": "DRAGON"
+    },
+    {
+        "combination": [
+            [
+                "£50-£70",
+                "No",
+                "Yes",
+                "15 minutes",
+                "No",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£50-£70",
+                "No",
+                "Yes",
+                "30 minutes",
+                "No",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£100-£150",
+                "No",
+                "Yes",
+                "60 minutes",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "Any Amount",
+                "No",
+                "Yes",
+                "30 minutes",
+                "No",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "Any Amount",
+                "No",
+                "Yes",
+                "60 minutes",
+                "Yes",
+                "Cute",
+                "Easy to care for"
+            ]
+        ],
+        "text": "The best reptile for you is a Boa Constrictor. Boa Constrictors make great pets for snake enthusiasts. They grow to be very large but can be best described as gentle giants.  They do not require a lot of attention and are easy to maintain.",
+        "img": "SNAKE"
+    },
+    {
+        "combination": [
+            [
+                "£100-£150",
+                "No",
+                "No",
+                "30 minutes",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£100-£150",
+                "No",
+                "No",
+                "60 minutes",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "less than £50",
+                "No",
+                "Yes",
+                "15 minutes",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "£50-£70",
+                "No",
+                "Yes",
+                "60 minutes",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "£100-£150",
+                "No",
+                "Yes",
+                "60minutes",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ]
+        ],
+        "text": "The best reptile for you is a Ball Python. Ball Pythons make great pets for snake enthusiasts. They have a lot of unique patterns and can grow to be 60- 95 cm which is not too large for a snake. They don’t require a lot of attention and are typically easy to care for.",
+        "img": "PYTHON"
+    },
+    {
+        "combination": [
+            [
+                "£100-£150",
+                "No",
+                "No",
+                "A lot of time",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£100-£150",
+                "No",
+                "No",
+                "A lot of time",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£100-£150",
+                "No",
+                "No",
+                "15 minutes",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "£50-£70",
+                "No",
+                "No",
+                "30 minutes",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "Any Amount",
+                "No",
+                "No",
+                "15 minutes",
+                "No",
+                "Cool",
+                "Easy to care for"
+            ]
+        ],
+        "text": "The best reptile for you is a Corn Snake. Corn Snakes make great pets for snake enthusiasts. They have a lot of unique patterns and can grow to be 120- 170 cm and due to this a corn snake should have a large enclosure to be able to comfortably stretch out. They are easy to care for and you can choose however much attention you want to give them, as they don’t mind if you don’t spend a lot of time with them but they are also a species of snake that doesn’t dislike being handled.",
+        "img": "CORN_SNAKE"
+    },
+    {
+        "combination": [
+            [
+                "Any Amount",
+                "No",
+                "No",
+                "A lot of time",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "No",
+                "A lot of time",
+                "No",
+                "Cute",
+                "High maintenance is fine"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "No",
+                "60 minutes",
+                "No",
+                "Cute",
+                "High maintenance is fine"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "No",
+                "A lot of time",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "Yes",
+                "A lot of time",
+                "Yes",
+                "Cute",
+                "High maintenance is fine"
+            ]
+        ],
+        "text": "The best reptile for you is a Chameleon. Chameleons make great pets and are one of the most unique reptiles. They require a lot of care and maintenance as well as a specialised set up, however they are such great pets it’s worth it. Chameleons can grow to become large, so a large enclosure is required as well as an indoor tree or large plant for them to climb.",
+        "img": "CHAMELEON"
+    },
+    {
+        "combination": [
+            [
+                "Any Amount",
+                "No",
+                "Yes",
+                "A lot of time",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "Any Amount",
+                "No",
+                "Yes",
+                "60 minutes",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "Yes",
+                "A lot of time",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "Yes",
+                "60 minutes",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "Yes",
+                "30 minutes",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ]
+        ],
+        "text": "The best reptile for you is a Tegu. Tegu’s are large lizards and are incredibly interesting to own. They are huge and require a large space and a lot of attention. It’s important to give your tegu daily attention to keep your relationship strong. They are very smart, and you may find that they can sometimes out smart you!",
+        "img": "TEGU"
+    },
+    {
+        "combination": [
+            [
+                "Any Amount",
+                "No",
+                "No",
+                "30 minutes",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "Any Amount",
+                "No",
+                "No",
+                "60 minutes",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "Any Amount",
+                "No",
+                "No",
+                "A lot of time",
+                "No",
+                "Cute",
+                "Easy to care for"
+            ],
+            [
+                "Any Amount",
+                "Yes",
+                "No",
+                "30 minutes",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "Any Amount",
+                "Yes",
+                "No",
+                "60 minutes",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "Any Amount",
+                "Yes",
+                "No",
+                "A lot of time",
+                "Yes",
+                "Cool",
+                "High maintenance is fine"
+            ]
+        ],
+        "text": "The best reptile for you is a Leopard Gecko. Leopard geckos are very cute and active. A leopard gecko can stick to your clothes and will rarely fall off. They are easy to care for and very fun reptiles. It’s important to have a hot spot for them In their enclosure so they can warm up when they need too.",
+        "img": "GECKO"
+    },
+    {
+        "combination": [
+            [
+                "Any Amount",
+                "No",
+                "No",
+                "30 minutes",
+                "No",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "Any Amount",
+                "No",
+                "No",
+                "60 minutes",
+                "No",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "Any Amount",
+                "No",
+                "No",
+                "A lot of time",
+                "No",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "Any Amount",
+                "Yes",
+                "No",
+                "60 minutes",
+                "No",
+                "Cool",
+                "High maintenance is fine"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "Yes",
+                "60 minutes",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ],
+            [
+                "£100-£150",
+                "Yes",
+                "Yes",
+                "A lot of time",
+                "Yes",
+                "Cool",
+                "Easy to care for"
+            ]
+        ],
+        "text": "The best reptile for you is a Crested Gecko. Crested geckos look very cool, their eyes and patterns make them stand out from other reptiles. They are active and will stick to your clothes without falling off.  They are easy to care for and very fun reptiles. It’s important to have a hot spot for them in their enclosure so they can warm up when they need too.",
+        "img": "CRESTED_GECKO"
+    }
+]

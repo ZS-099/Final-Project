@@ -1,0 +1,56 @@
+[
+    {
+        "title": "How much are you willing to spend on a reptile?",
+        "options": [
+            "less than £50",
+            "£50-£70",
+            "£100-£150",
+            "Any Amount"
+        ]
+    },
+    {
+        "title": "Snakes are the most common pet reptiles, are you scared of snakes?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "title": "Do you Like Large Reptiles?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "title": "How much time do you have in a day to spend time with or play with your reptile?",
+        "options": [
+            "15 minutes",
+            "30 minutes",
+            "60 minutes",
+            "A lot of time"
+        ]
+    },
+    {
+        "title": "Do you dislike reptiles that jump high or can stick to your clothes?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "title": "Do you want a reptile that is traditionally more 'cool' or 'cute'?",
+        "options": [
+            "Cute",
+            "Cool"
+        ]
+    },
+    {
+        "title": "Do you want a reptile that is easy to care for or is a higher maintenance one ok?",
+        "options": [
+            "Easy to care for",
+            "High maintenance is fine"
+        ]
+    }
+   
+]
