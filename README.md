@@ -14,6 +14,10 @@ then click on 'terminal'
 type 'npm install'
 finally type 'npm start'
 
+
+To test the payment process the sign in information for paypal is:
+John5129@personal.example.com
+password: ?E/b-J80
 ---
 
 In the project directory, you can run:
